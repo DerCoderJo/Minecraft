@@ -1,14 +1,14 @@
 {
-    "guild_id": "926761793559363615",
-    "token": "OTMwNTA2NTk1NTMwNTg4MTcw.GqojHl.XMioNLpZp9d_AH4_1tTDCpB-0c4L0Sfcx8wWns",
+    "guild_id": "",
+    "token": "",
     "discord_link": {
-        "active": true,
+        "active": false,
         "dicord_invite_link": "",
         "change_discord_nickname": true
     },
     "chat_sync": {
-        "active": true,
-        "channel_id": "1049352496319041696",
+        "active": false,
+        "channel_id": "",
         "format": "§r§8(§9Discord§8) §7{nickname} §8» §7{message}§r",
         "replace_in_name_with": {
             "[Admin]": "§8[§4Admin§8]§7"
